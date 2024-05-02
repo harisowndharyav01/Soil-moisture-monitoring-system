@@ -2,6 +2,11 @@
 The project presents the development and implementation of a simple IoT-based Soil Moisture Monitoring System. It utilizes an array of hardware components including the ESP8266 NodeMCU, a moisture sensor (Soil Humidity Sensor), a reliable 3.7 V Lithium-ion battery for seamless connectivity.
 
 
+**Project Setup**
+
+![image](https://github.com/harisowndharyav01/Soil-moisture-monitoring-system/assets/147607204/3091618b-32d4-4d83-b4f1-a86b13868a5b)
+
+
 **Percentage gauge of Thinkspeak channel**
 
 ![image](https://github.com/harisowndharyav01/Soil-moisture-monitoring-system/assets/147607204/57339bdc-d6f4-47a3-8126-4b7266bb26cb)
